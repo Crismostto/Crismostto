@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Crismostto
 - 👀 I’m interested in programing web 
-- 🌱 I’m currently learning PHP/JS/VUE
+- 🌱 I’m currently learning JS/React/Node
 - 📫 How to reach me crismstt@gmail.com
 
 <!---
